@@ -6,7 +6,7 @@ Systems Administrator at [Netsoc](https://netsoc.co/rk/)<br>
 Computer Science student at [University College Cork](https://www.ucc.ie/en/)<br>
 
 
-<a href="www.linkedin.com/in/aleksysiek" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aleksysiek" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 <details>
 <summary>Click for GitHub Stats</summary>
