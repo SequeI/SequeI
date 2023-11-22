@@ -1,12 +1,9 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ 
 
-* Systems Administrator at [Netsoc](https://netsoc.co/rk/)<br> 
+* Vice Head Systems Administrator at [Netsoc](https://netsoc.co/rk/)<br> 
 * Computer Science student at [University College Cork](https://www.ucc.ie/en/)<br>
 
-
-<a href="https://www.linkedin.com/in/aleksysiek" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ![](https://github.com/Sequel0x/Sequel0x/blob/main/github-contribution-grid-snake-dark.svg)
 <details>
