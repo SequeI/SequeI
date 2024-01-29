@@ -3,6 +3,8 @@
 
 * Vice Head Systems Administrator at [Netsoc](https://netsoc.co/rk/)<br> 
 * Computer Science student at [University College Cork](https://www.ucc.ie/en/)<br>
+* Director for [Devcon 2024](https://twitter.com/CorkDevcon) (soon™)<br>
+
 
 
 ![](https://github.com/Sequel0x/Sequel0x/blob/main/github-contribution-grid-snake-dark.svg)
