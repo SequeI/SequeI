@@ -4,7 +4,7 @@
 
 ## Current:
 
-### <a href="https://www.redhat.com/en"><img width=20 height=20 src="RedHat_favicon_0319.svg"></a> <span>Associate Software Engineer - Trusted Artifact Signer</span><br/>
+### <a href="https://www.redhat.com/en"><img width=20 height=20 src="RedHat_favicon_0319.svg"></a> <span>Junior Software Engineer - Trusted Artifact Signer</span><br/>
 
 ## Previously:
 
