@@ -5,7 +5,7 @@
 ## Current:
 
 ### <a href="https://www.redhat.com/en"><img width=20 height=20 src="RedHat_favicon_0319.svg"></a> <span>**Software Engineer** @ [Red Hat](https://www.redhat.com/en)</span><br/>
-  * Working on **Trusted Artifact Signer**
+  * Working on **Software Supply Chain Security**
 
 ### <a href="https://www.sigstore.dev/"><img width=20 height=20 src="sigstore_logo-4141817383.png"></a> <span>**Maintainer** @ [Sigstore](https://sigstore.dev)</span><br/>
   * Helping transparency efforts across the following projects:
