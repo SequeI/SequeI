@@ -9,9 +9,9 @@
 
 ### <a href="https://www.sigstore.dev/"><img width=20 height=20 src="sigstore_logo-4141817383.png"></a> <span>**Maintainer** @ [Sigstore](https://sigstore.dev)</span><br/>
   * Helping transparency efforts across the following projects:
-    * [**Model-Transparency**](https://github.com/sigstore/model-transparency) – Ensuring AI/ML model integrity.
-    * [**Model-validation-operator**](https://github.com/sigstore/model-validation-operator) – Kubernetes operator for model validation.
-    * [**sigstore-a2a**](https://github.com/sigstore/sigstore-a2a) – Agent-to-agent workflow security tooling.
+    * [**Model-Transparency**](https://github.com/sigstore/model-transparency) – Ensuring AI/ML model integrity
+    * [**Model-validation-operator**](https://github.com/sigstore/model-validation-operator) – Kubernetes operator for model validation
+    * [**sigstore-a2a**](https://github.com/sigstore/sigstore-a2a) – Agent-to-agent workflow security tooling
 
 
 ## Previously:
