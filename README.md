@@ -16,5 +16,6 @@
 
 ## Previously:
 
+### <a href="https://www.redhat.com/en"><img width=20 height=20 src="RedHat_favicon_0319.svg"></a> <span>Associate Software Engineer</span><br/>
 ### <a href="https://www.redhat.com/en"><img width=20 height=20 src="RedHat_favicon_0319.svg"></a> <span>Intern Software Engineer</span><br/>
 ### <a href="https://netsoc.co/rk"><img width=20 height=20 src="https://github.com/UCCNetsoc/netsoc.co/blob/00f382cbb3324f7420e28b95783d53f5c759de74/public/android-chrome-192x192.png?raw=true"></a> <span>Head Systems Administrator</span><br/>
