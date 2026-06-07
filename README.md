@@ -8,7 +8,7 @@
   * [**sigstore-a2a**](https://github.com/sigstore/sigstore-a2a) – Agent-to-agent workflow security tooling
 
 ### <span>**Core Maintainer** @ [Nono](https://github.com/always-further/nono)</span><br/>
-* Core maintainer of the open-source runtime security and safety tooling for AI agents.
+* Steering development of the open-source runtime security and safety tooling for AI agents.
 
 
 ## Previously:
