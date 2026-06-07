@@ -13,8 +13,8 @@
 
 ## Previously:
 
-### <span>**Software Engineer** @ Red Hat</span><br/>
+### <span>**Software Engineer** @ [Red Hat](https://www.redhat.com)</span><br/>
 * Progressed from **Intern** $\rightarrow$ **Associate** $\rightarrow$ **Software Engineer**
 * Focused on **Software Supply Chain Security**
 
-### <span>**Head Systems Administrator** @ Netsoc</span><br/>
+### <span>**Head Systems Administrator** @ [Netsoc](https://www.linkedin.com/company/netsoc)</span><br/>
