@@ -1,4 +1,4 @@
-### <span>**Software Engineer** @ [Always Further](https://alwaysfurther.ai)</span><br/>
+### <span>**Software Engineer** @ [nolabs, Inc](https://nolabs.ai/)</span><br/>
 * Working on building kernel-level sandboxing for AI agents, cryptographic provenance, hardened models, open source and more.
 
 ### <span>**Maintainer** @ [Sigstore](https://sigstore.dev)</span><br/>
