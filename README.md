@@ -1,4 +1,4 @@
-### <span>**Software Engineer** @ [nolabs, Inc](https://nolabs.ai/)</span><br/>
+### <span>**Founding Engineer** @ [nolabs, Inc](https://nolabs.ai/)</span><br/>
 * Working on building kernel-level sandboxing for AI agents, cryptographic provenance, hardened models, open source and more.
 
 ### <span>**Maintainer** @ [Sigstore](https://sigstore.dev)</span><br/>
